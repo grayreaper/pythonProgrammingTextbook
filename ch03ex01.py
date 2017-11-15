@@ -4,7 +4,7 @@
 import math
 
 def main():
-    print("This program computes the volume and surface of a sphere")
+    print("This program computes the volume and surface area of a sphere")
     print()
 
     r = float(input("Please enter the radius of the sphere: "))
